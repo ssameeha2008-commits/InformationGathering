@@ -83,7 +83,8 @@ https://web.archive.org/
 TCP Traceroute:
 sudo traceroute -T www.google.com
 ## output
-<img width="790" height="558" alt="image" src="https://github.com/user-attachments/assets/97a4ba26-409d-4c05-ae1e-226bd2418ef1" />
+<img width="872" height="230" alt="image" src="https://github.com/user-attachments/assets/96dc32f0-6599-493b-9179-21a7ab073598" />
+
 
 
 ## UDP Traceroute:
