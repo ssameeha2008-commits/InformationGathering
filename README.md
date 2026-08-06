@@ -1,5 +1,4 @@
-<img width="687" height="617" alt="image" src="https://github.com/user-attachments/assets/35cb01f9-90e5-4e6a-a0e3-19af38a354b6" /><img width="687" height="617" alt="image" src="https://github.com/user-attachments/assets/b9732571-51d7-4386-9f01-ea1c246a952b" /><img width="687" height="617" alt="image" src="https://github.com/user-attachments/assets/df8bffa1-b900-445d-9e85-206db05b96b6" /><img width="687" height="617" alt="image" src="https://github.com/user-attachments/assets/1abb0526-63e1-416a-9343-08ffa1f368dd" /># InformationGathering
-Information Gathering Techiques
+
 
 # To perform information gathering techniques
 
